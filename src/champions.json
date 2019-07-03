@@ -1,0 +1,52 @@
+[
+    {"name": "Darius", "tier": 1}
+   ,{"name": "Fiora", "tier": 1}
+   ,{"name": "Garen", "tier": 1}
+   ,{"name": "Graves", "tier": 1}
+   ,{"name": "Kassadin", "tier": 1}
+   ,{"name": "Kha'Zix", "tier": 1}
+   ,{"name": "Mordekaiser", "tier": 1}
+   ,{"name": "Nidalee", "tier": 1}
+   ,{"name": "Tristana", "tier": 1}
+   ,{"name": "Vayne", "tier": 1}
+   ,{"name": "Warwick", "tier": 1}
+   ,{"name": "Ahri", "tier": 2}
+   ,{"name": "Blitzcrank", "tier": 2}
+   ,{"name": "Braum", "tier": 2}
+   ,{"name": "Elise", "tier": 2}
+   ,{"name": "Lissandra", "tier": 2}
+   ,{"name": "Lucian", "tier": 2}
+   ,{"name": "Lulu", "tier": 2}
+   ,{"name": "Pyke", "tier": 2}
+   ,{"name": "Rek'Sai", "tier": 2}
+   ,{"name": "Shen", "tier": 2}
+   ,{"name": "Varus", "tier": 2}
+   ,{"name": "Zed", "tier": 2}
+   ,{"name": "Aatrox", "tier": 3}
+   ,{"name": "Ashe", "tier": 3}
+   ,{"name": "Evelynn", "tier": 3}
+   ,{"name": "Gangplank", "tier": 3}
+   ,{"name": "Katarina", "tier": 3}
+   ,{"name": "Kennen", "tier": 3}
+   ,{"name": "Morgana", "tier": 3}
+   ,{"name": "Poppy", "tier": 3}
+   ,{"name": "Regnar", "tier": 3}
+   ,{"name": "Shyvana", "tier": 3}
+   ,{"name": "Veigar", "tier": 3}
+   ,{"name": "Volibear", "tier": 3}
+   ,{"name": "Akali", "tier": 4}
+   ,{"name": "Aurelion Sol", "tier": 4}
+   ,{"name": "Brand", "tier": 4}
+   ,{"name": "Cho'gath", "tier": 4}
+   ,{"name": "Draven", "tier": 4}
+   ,{"name": "Gnar", "tier": 4}
+   ,{"name": "Kindred", "tier": 4}
+   ,{"name": "Leona", "tier": 4}
+   ,{"name": "Sejuani", "tier": 4}
+   ,{"name": "Anivia", "tier": 5}
+   ,{"name": "Karthus", "tier": 5}
+   ,{"name": "Kayle", "tier": 5}
+   ,{"name": "Miss Fortune", "tier": 5}
+   ,{"name": "Swain", "tier": 5}
+   ,{"name": "Yasuo", "tier": 5}
+]
